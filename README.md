@@ -12,4 +12,3 @@ Minhas impressões: Ainda vale uma revisão para concretizar o aprendizado, mas 
 # Como ficará o projeto:
 
 ![image](https://user-images.githubusercontent.com/72364037/114808615-05e17080-9d7f-11eb-9cbd-0aa16b8d4015.png)
-![image](https://user-images.githubusercontent.com/72364037/114808666-172a7d00-9d7f-11eb-83a5-9c640b550748.png)
